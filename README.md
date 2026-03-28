@@ -33,8 +33,8 @@
 ### Output:
 <img width="1866" height="831" alt="Screenshot 2026-03-18 145030" src="https://github.com/user-attachments/assets/3ce0985b-e271-4ae2-bd83-8d49b01e7c94" />
 
-### Name: VASANTHABALAN K
-### Register Number: 212224230296
+### Name: gokulan r
+### Register Number: 212224230076
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
